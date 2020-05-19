@@ -1,9 +1,0 @@
-name: matlab-environment
-channels:
-  - conda-forge
-dependencies:
-  - python
-  - numpy
-  - pip
-  - pip:
-    - git+https://github.com/Calysto/matlab_kernel
