@@ -1,7 +1,0 @@
-name: matlab-environment
-channels:
-  - conda-forge
-dependencies:
-  - pip
-  - pip:
-    - matlab_kernel
