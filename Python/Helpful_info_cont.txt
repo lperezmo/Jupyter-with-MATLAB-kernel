@@ -1,1 +1,0 @@
-How to pull files from upstream to edit origin in web browser GitHub.
